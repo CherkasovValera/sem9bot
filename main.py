@@ -30,4 +30,3 @@ app.add_handler(CommandHandler("del", del_command))
 print("Gut")
 app.run_polling()
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
